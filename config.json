@@ -1,5 +1,5 @@
 {
-    "github_token": "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",
+    "github_token": "XXXX",
     "notification_settings": {
         "email": "your_email@example.com",
         "slack_webhook_url": "your_slack_webhook_url"
